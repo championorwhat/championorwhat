@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Online CA**  
+- 🔭 I’m currently working on **DSA Skills**  
 - 🌱 I’m currently learning **Deep Learning and Machine Learning**  
 - 📊 I’m building a **Stock Market Prediction/Analysis tool**  
 - 🖥️ Check out my portfolio: [PG Portfolio](https://championorwhat.github.io/PG_Portfolio/)  
